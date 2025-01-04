@@ -137,7 +137,7 @@ The database schema is designed using an Entity-Relationship Diagram (ERD) and i
 1.  **Clone the repository:**
 
     ```bash
-    git clone  https://github.com/Striker6674/Corporate-Vendor-Management-System-/edit/main/README.md
+    git clone  https://github.com/Striker6674/Corporate-Vendor-Management-System-/tree/main
     ```
 
 2.  **Install dependencies:**
