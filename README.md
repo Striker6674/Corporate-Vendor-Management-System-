@@ -4,7 +4,7 @@
 
 This project is a full-stack web application designed to streamline corporate vendor management processes. It allows organizations to manage vendor relationships, track contracts, monitor budgets, process purchase orders, evaluate vendor performance, and ensure compliance.
 
-The system was developed collaboratively by **Hussain Ahmad** (i22-1374) and **Usman Babar** (i22-aca1984) as part of a project in the AI-B section.
+The system was developed collaboratively by **Hussain Ahmad** (i22-1374) ) as part of a project 
 
 ## Features
 
@@ -130,14 +130,14 @@ The database schema is designed using an Entity-Relationship Diagram (ERD) and i
 *   `Task`
 *   `ComplianceAudit`
 
-**[Optional: Include a visual representation of your ERD here. You can use a tool like [dbdiagram.io](https://dbdiagram.io/home) to create an ERD and then export it as an image or embed the code here.]**
+
 
 ## Getting Started
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone [invalid URL removed]
+    git clone  https://github.com/Striker6674/Corporate-Vendor-Management-System-/edit/main/README.md
     ```
 
 2.  **Install dependencies:**
