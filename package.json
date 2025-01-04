@@ -1,0 +1,28 @@
+{
+    "name": "vendor-management-system",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "bcrypt": "^5.1.1",
+        "body-parser": "^1.20.3",
+        "compression": "^1.7.5",
+        "connect-flash": "^0.1.1",
+        "dotenv": "^16.4.5",
+        "ejs": "^3.1.10",
+        "envalid": "^8.0.0",
+        "express": "^4.21.1",
+        "express-mysql-session": "^3.0.3",
+        "express-rate-limit": "^7.4.1",
+        "express-session": "^1.18.1",
+        "express-validator": "^7.2.0",
+        "helmet": "^8.0.0",
+        "morgan": "^1.10.0",
+        "mysql2": "^2.3.3",
+        "nodemailer": "^6.9.16",
+        "vendor-management-system": "file:",
+        "winston": "^3.17.0"
+    }
+}
